@@ -1,5 +1,8 @@
 ## Documentation for Skillsense Web
 
+<img width="960" alt="skillsense" src="https://github.com/Thirumurugan-12/Skillsense/assets/76591903/5ffc41bc-6717-4a90-ac68-da93033dc2e5">
+
+
 ### Introduction
 Skillsense Web is a web application that provides language processing and information retrieval capabilities. It allows users to provide input in the form of web links, PDF files, or YouTube video transcripts. The application processes the input data, extracts information, and offers features such as summarization, translation, and even text-to-speech conversion.
 
